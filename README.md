@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">ㅤ- Full-stack web developer<br>ㅤ- English C1 level: <a href="https://cert.efset.org/pt/PBd5V7">https://cert.efset.org/pt/PBd5V7</a> <br>ㅤ- Currently studying Multiplataform Software Developing at Fatec (Technologic University)<br>ㅤ- Looking for a job</p>
+<p align="left">ㅤ- Full-stack web developer<br>ㅤ- English C1 level: <a href="https://cert.efset.org/pt/PBd5V7">https://cert.efset.org/pt/PBd5V7</a> <br>ㅤ- Currently studying Multiplataform Software Developing at Fatec (Technologic University)<br>ㅤ- Trainee at <a https://www.working-agile.com/>Working-Agile</a></p>
 
 ###
 
